@@ -82,8 +82,8 @@ int main(){
     printf("Division = ");
     c3.display();
 
-    Complex c4;
-    c4=c1+c2;
-    printf("Operator Overloading = ");
-    c4.display();
+    // Complex c4;
+    // c4=c1+c2;  //c1.operator+(c2)
+    // printf("Operator Overloading = ");
+    // c4.display();
 }
