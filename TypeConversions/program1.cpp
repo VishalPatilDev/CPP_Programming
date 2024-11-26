@@ -11,5 +11,4 @@ int main(){
     cout<<"Value of i : "<<i<<endl;
     cout<<"Value of pi : "<<fixed<<setprecision(2)<<pi<<endl;
     cout<<"Value of c : "<<c<<endl;
-    cout<<"What \?";
 }

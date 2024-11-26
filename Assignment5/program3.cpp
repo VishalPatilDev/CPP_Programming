@@ -121,14 +121,17 @@ public:
 };
 
 int main() {
+    Vehicle* v;
     Car c("Car", 120, 5);
-    c.display();
+    v=&c;
+    v->display();
+    // c.display();
 
     Bike b("Bike", 80, true);
-    b.display();
+    v=&b;
+    v->display();
 
     Bus bus("Bus", 60, 30);
-    bus.display();
-
-    return 0;
+    v=&bus;
+    v->display();
 }

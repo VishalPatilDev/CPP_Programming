@@ -71,10 +71,13 @@ class Footballer:public Player{
     }
 };
 int main(){
+    Player* p;
     Footballer f("messi",36,800);
-    f.display();
+    p=&f;
+    p->display();
     cout<<endl;
 
     Criketer c("Virat",34,12000);
-    c.display();
+    p=&c;
+    p->display();
 }
