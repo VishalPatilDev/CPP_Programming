@@ -1,4 +1,3 @@
-
 class Complex{
     public:
     int real;
