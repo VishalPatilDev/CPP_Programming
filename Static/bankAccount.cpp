@@ -5,19 +5,20 @@ class BankAccount{
     int AcNo;
     char name[20];
     double balance;
-    double interestRate;
+    static double interestRate;
+    static int count;
     public:
     BankAccount(){
+        count++;
         this->AcNo=0;
         strcpy(this->name,"none");
         this->balance=0;
-        this->interestRate=0;
     }
-    BankAccount(int ac,const char* nm,double bal,double ir){
+    BankAccount(int ac,const char* nm,double bal){
+        count++;
         this->AcNo=ac;
         strcpy(this->name,nm);
         this->balance=bal;
-        this->interestRate=ir;
     }
     void setAccountNo(int ac){
         this->AcNo=ac;
@@ -28,8 +29,8 @@ class BankAccount{
     void setBalance(double bal){
         this->balance=bal;
     }
-    void setInterestRate(double ir){
-        this->interestRate=ir;
+    static void setInterestRate(double ir){
+        interestRate=ir;
     }
     int getAc(){
         return this->AcNo;
@@ -43,15 +44,24 @@ class BankAccount{
     double getIR(){
         return this->interestRate;
     }
+
+    static void countDisplay(){
+        cout<<count;
+    }
     void display(){
         cout<<"Account Number is : "<<this->AcNo<<endl;
         cout<<"Name of Ac Holder is : "<<this->name<<endl;
         cout<<"Balance is : "<<this->balance<<endl;
         cout<<"Interest Rate is : "<<this->interestRate<<endl;
+        // cout<<"Count : "<<count<<endl;
     }
-
 };
+double BankAccount::interestRate=10.2;
+int BankAccount::count=0;
 int main(){
-    BankAccount b(23423485,"Vishal",400000,20);
+    BankAccount* ac = new BankAccount[5];
+    BankAccount b(23423485,"Vishal",400000);
+    BankAccount::setInterestRate(20);
     b.display();
+    BankAccount::countDisplay();
 }
