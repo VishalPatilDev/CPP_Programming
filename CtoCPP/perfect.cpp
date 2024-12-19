@@ -10,9 +10,8 @@ int main(){
             sum=sum+i;
         }
     }
-    if(sum==num){
+    if(sum==num)
         cout<<"Perfect"<<endl;
-    }
     else
         cout<<"Not perfect";
 }

@@ -7,11 +7,4 @@ int main(){
     for(int i=1;i<=10;i++){
         cout<<num<<"*"<<i<<"="<<num*i<<endl;
     }
-    // tableOfNum(num);
 }
-// void tableOfNum(int num){
-//     int mul;
-//     for(int i=1;i<=10;i++){
-//         cout<<num<<"*"<<i<<"="<<num*i;
-//     }
-// }

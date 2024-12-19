@@ -56,8 +56,10 @@ class BankAccount{
         // cout<<"Count : "<<count<<endl;
     }
 };
+
 double BankAccount::interestRate=10.2;
 int BankAccount::count=0;
+
 int main(){
     BankAccount* ac = new BankAccount[5];
     BankAccount b(23423485,"Vishal",400000);
