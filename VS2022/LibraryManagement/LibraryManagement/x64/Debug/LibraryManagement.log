@@ -1,0 +1,3 @@
+﻿lib.obj : error LNK2005: "private: static int Book::count" (?count@Book@@0HA) already defined in books.obj
+lib.obj : error LNK2005: "private: static class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > Book::libName" (?libName@Book@@0V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in books.obj
+D:\CDAC\VS2022\LibraryManagement\x64\Debug\LibraryManagement.exe : fatal error LNK1169: one or more multiply defined symbols found

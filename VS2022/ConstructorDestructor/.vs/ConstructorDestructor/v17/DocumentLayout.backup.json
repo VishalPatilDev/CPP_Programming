@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CDAC\\VS2022\\ConstructorDestructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B21EA1A-CE29-4B8D-A958-8E25A98E70C8}|ConstructorDestructor\\ConstructorDestructor.vcxproj|D:\\CDAC\\VS2022\\ConstructorDestructor\\ConstructorDestructor\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B21EA1A-CE29-4B8D-A958-8E25A98E70C8}|ConstructorDestructor\\ConstructorDestructor.vcxproj|solutionrelative:ConstructorDestructor\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B21EA1A-CE29-4B8D-A958-8E25A98E70C8}|ConstructorDestructor\\ConstructorDestructor.vcxproj|D:\\CDAC\\VS2022\\ConstructorDestructor\\ConstructorDestructor\\Order.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B21EA1A-CE29-4B8D-A958-8E25A98E70C8}|ConstructorDestructor\\ConstructorDestructor.vcxproj|solutionrelative:ConstructorDestructor\\Order.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B21EA1A-CE29-4B8D-A958-8E25A98E70C8}|ConstructorDestructor\\ConstructorDestructor.vcxproj|D:\\CDAC\\VS2022\\ConstructorDestructor\\ConstructorDestructor\\OrderSrc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B21EA1A-CE29-4B8D-A958-8E25A98E70C8}|ConstructorDestructor\\ConstructorDestructor.vcxproj|solutionrelative:ConstructorDestructor\\OrderSrc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cpp",
+              "DocumentMoniker": "D:\\CDAC\\VS2022\\ConstructorDestructor\\ConstructorDestructor\\Client.cpp",
+              "RelativeDocumentMoniker": "ConstructorDestructor\\Client.cpp",
+              "ToolTip": "D:\\CDAC\\VS2022\\ConstructorDestructor\\ConstructorDestructor\\Client.cpp",
+              "RelativeToolTip": "ConstructorDestructor\\Client.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-27T15:42:39.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderSrc.cpp",
+              "DocumentMoniker": "D:\\CDAC\\VS2022\\ConstructorDestructor\\ConstructorDestructor\\OrderSrc.cpp",
+              "RelativeDocumentMoniker": "ConstructorDestructor\\OrderSrc.cpp",
+              "ToolTip": "D:\\CDAC\\VS2022\\ConstructorDestructor\\ConstructorDestructor\\OrderSrc.cpp",
+              "RelativeToolTip": "ConstructorDestructor\\OrderSrc.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-27T15:42:31.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.h",
+              "DocumentMoniker": "D:\\CDAC\\VS2022\\ConstructorDestructor\\ConstructorDestructor\\Order.h",
+              "RelativeDocumentMoniker": "ConstructorDestructor\\Order.h",
+              "ToolTip": "D:\\CDAC\\VS2022\\ConstructorDestructor\\ConstructorDestructor\\Order.h",
+              "RelativeToolTip": "ConstructorDestructor\\Order.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-27T15:42:13.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

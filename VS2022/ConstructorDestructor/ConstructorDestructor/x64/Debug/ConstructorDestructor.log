@@ -1,0 +1,5 @@
+﻿  Client.cpp
+  OrderSrc.cpp
+D:\CDAC\VS2022\ConstructorDestructor\ConstructorDestructor\OrderSrc.cpp(43,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  ConstructorDestructor.vcxproj -> D:\CDAC\VS2022\ConstructorDestructor\x64\Debug\ConstructorDestructor.exe
