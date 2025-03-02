@@ -1,0 +1,9 @@
+﻿  client.cpp
+C:\Users\dac\source\repos\DiamondInheritance\DiamondInheritance\client.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\dac\source\repos\DiamondInheritance\DiamondInheritance\client.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\dac\source\repos\DiamondInheritance\DiamondInheritance\client.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\dac\source\repos\DiamondInheritance\DiamondInheritance\C.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'client.cpp')
+  
+C:\Users\dac\source\repos\DiamondInheritance\DiamondInheritance\client.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  DiamondInheritance.vcxproj -> C:\Users\dac\source\repos\DiamondInheritance\DiamondInheritance\x64\Debug\DiamondInheritance.exe

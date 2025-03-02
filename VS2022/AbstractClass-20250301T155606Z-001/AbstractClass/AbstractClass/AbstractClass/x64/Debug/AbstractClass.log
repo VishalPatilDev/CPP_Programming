@@ -1,0 +1,5 @@
+﻿  client.cpp
+C:\Users\dac\source\repos\AbstractClass\AbstractClass\client.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\dac\source\repos\AbstractClass\AbstractClass\client.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\dac\source\repos\AbstractClass\AbstractClass\client.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  AbstractClass.vcxproj -> C:\Users\dac\source\repos\AbstractClass\AbstractClass\x64\Debug\AbstractClass.exe
